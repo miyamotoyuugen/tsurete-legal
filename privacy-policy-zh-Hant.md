@@ -1,8 +1,3 @@
----
-layout: default
-lang: zh-Hant
-title: 一起去 隱私權政策
----
 **一起去 隱私權政策**
 
 最後更新：2026年11月12日
