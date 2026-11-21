@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'zh-Hant' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; line-height: 1.65; max-width: 42rem; margin: 1.5rem auto; padding: 0 1rem; color: #111; }
+    a { color: #0b57d0; }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
